@@ -1,0 +1,6 @@
+.wrapper {
+    border: 10px outset red;
+    background-color: lightblue;
+    text-align: center;
+    height: 100vh;
+  }
